@@ -1,0 +1,22 @@
+ns-fw-972brush-xnet-c/pri/act# show run object-group id topology-xnet-cerner-2014
+object-group network topology-xnet-cerner-2014
+ description topology-xnet-cerner-2014
+ network-object object xhost159.140.192.202
+ network-object object xnet-159.140.16.0-m20
+ network-object object xnet-159.140.160.0-m20
+ network-object object xnet-159.140.174.0-m24
+ network-object object xnet-159.140.176.0-m20
+ network-object object xnet159.140.103.0-m24
+ network-object object xnet-159.140.175.0-m24
+ network-object object Cerner-2014-104.170.23.128
+ network-object object Cerner-170.71.165.128-m29
+ network-object object Cerner-192.168.65.0m26
+ network-object object Cerner-159.140.85.112m28
+ network-object object Cerner-104.170.225.128m25
+ network-object object Cerner-104.170.88.128m25
+ network-object object Cerner-137.252.3.128m25
+ network-object object Cerner-170.71.105.128m26
+ network-object object Cerner-170.71.255.224m27
+ network-object object Cerner-149.45.109.0m26
+ network-object object xhost-104.170.23.156
+ network-object object xhost-137.252.3.198
